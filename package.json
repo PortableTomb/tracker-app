@@ -10,11 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/SeattleFeministJS/tracker-app.git"
   },
-  "keywords": ["Node-React", "Node", "React", "Webpack", "Express"],
+  "keywords": [
+    "Node-React",
+    "Node",
+    "React",
+    "Webpack",
+    "Express"
+  ],
   "author": "SeattleFeministJS <seattlefeministjs@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SeattleFeministJS/tracker-app/issues"
   },
-  "homepage": "https://github.com/SeattleFeministJS/tracker-app#readme"
+  "homepage": "https://github.com/SeattleFeministJS/tracker-app#readme",
+  "dependencies": {
+    "koa": "^1.2.4"
+  }
 }
